@@ -24,6 +24,7 @@
     3 - w (width of box)
     4 - h (width of box)
     
-## Usage
+## * Usage
+    $./convert $(Dir which contains KITTI Format label txt)
     
      
