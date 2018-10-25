@@ -5,8 +5,8 @@
     
     * KITTI Format
     0 - class
-    1 - truncated float : 절단된 정도 (0 < 1)
-    2 - occluded integer (0,1,2,3) (맞물림?)
+    1 - truncated float
+    2 - occluded integer (0,1,2,3)
         0 : fully visible
         1 : partly occluded
         2 : largely occluded
